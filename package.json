@@ -1,0 +1,17 @@
+{
+  "name": "text-or-die-auto-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@devicefarmer/adbkit": "^3.2.3",
+    "jimp": "^0.16.1",
+    "text-from-image": "^1.1.1"
+  }
+}
